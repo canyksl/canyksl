@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋  I'm Can, I'm a Senior Student in Mining Engineering at Dokuz Eylül University. I am also an active working software developer.
 
 <!--
 **canyksl/canyksl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=canyksl&show_icons=true&theme=gradient)<br/>
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+<center>![Github stats 1](https://github-readme-stats.vercel.app/api?username=canyksl&show_icons=true&theme=gradient)<br/>
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)<center>
