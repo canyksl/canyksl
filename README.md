@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...<br/><br/><br/>
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=canyksl&show_icons=true&theme=gradient)<br/><br/><br/>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="tr_TR" data-type="vertical" data-theme="dark" data-vanity="canyksl"><a class="LI-simple-link" href='https://tr.linkedin.com/in/canyksl?trk=profile-badge'>Nuri Can Yüksel</a></div>
+
 [![Linkedin-badge](https://img.shields.io/badge/-linkedin-C13584?style=flat-quare&labelColor=C13584&logo=linkedin&logoColor=white&link=link)](https://tr.linkedin.com/in/canyksl)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/cannnyuksel)
 
