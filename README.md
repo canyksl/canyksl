@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-TSQL-informational?style=flat&logo=TSQL&logoColor=white&color=4AB197)
 <br/><br/>
 <summary> Daha Fazla Beceri </summary>
 <br/>
